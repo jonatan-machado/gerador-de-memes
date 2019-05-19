@@ -86,7 +86,7 @@ const styles = StyleSheet.create({
     zIndex: 0
   },
   texto: {
-    fontSize: 25,
+    fontSize: 20,
     color: "white",
     padding: 10,
     backgroundColor: "transparent",
